@@ -1,4 +1,7 @@
 h1 {text-align: center; font-size: 45px; font-family: Comic Sans MS; color: #C98000}
+<div style="width: 200px;">
+   <div style="height: 100px; margin: 10px;"></div>
+</div>
 p {
   color: #C98000;
   font-size: 24px;
