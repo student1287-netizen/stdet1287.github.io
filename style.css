@@ -1,4 +1,10 @@
 h1 {text-align: center; font-size: 45px; font-family: Comic Sans MS; color: #ED9B07}
+p {
+  color: #ED9B07;
+  font-size: 24px;
+  text-transform: uppercase
+  text-decoration: overline;
+}
 body {background: #FFBF47}
 h2 {font-family: Comic Sans MS; text-decoration: underline; font-size: 30px; color: #ED9B07; margin-left: 15px}
 sus {font-family: Comic Sans MS; color: #FFBF47; font-size: 20px}
